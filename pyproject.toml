@@ -1,0 +1,21 @@
+[project]
+name = "sandbox-udacity-ai-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.13.7"
+dependencies = [
+    "grandalf>=0.8",
+    "jupyterlab==4.4.10",
+    "langchain==1.0.3",
+    "langchain-community>=0.4.1",
+    "langchain-openai==1.0.2",
+    "langgraph==1.0.2",
+    "matplotlib>=3.10.7",
+    "python-dotenv==1.2.1",
+    "pyyaml>=6.0.3",
+    "scipy>=1.16.3",
+    "seaborn>=0.13.2",
+    "tavily-python>=0.7.13",
+    "wikipedia>=1.4.0",
+]
