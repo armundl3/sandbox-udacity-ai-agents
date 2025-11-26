@@ -1,0 +1,11 @@
+# Example configuration for GOT Researcher CLI
+# Copy this to config.yaml and customize as needed
+
+# LLM model to use
+model: gpt-4o-mini
+
+# Temperature for response generation (0.0 = deterministic, 1.0 = creative)
+temperature: 0.0
+
+# Optional: Custom API base URL (uncomment if needed)
+# base_url: https://openai.vocareum.com/v1
