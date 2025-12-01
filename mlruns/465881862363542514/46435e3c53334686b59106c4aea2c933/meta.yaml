@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/amundle/github/sandbox-udacity-ai-agents/mlruns/465881862363542514/46435e3c53334686b59106c4aea2c933/artifacts
+end_time: 1764559158993
+entry_point_name: ''
+experiment_id: '465881862363542514'
+lifecycle_stage: active
+run_id: 46435e3c53334686b59106c4aea2c933
+run_name: l4_exercise_02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764559139584
+status: 3
+tags: []
+user_id: amundle
